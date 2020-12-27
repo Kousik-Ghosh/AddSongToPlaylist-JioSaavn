@@ -5,6 +5,6 @@ Since desktop version of JioSaavn does not have the *song* section, thus the eas
 
 # how to run?
 Get 🥤or ☕.
-Go to https://www.jiosaavn.com/my-music/songs  **(P.S. need a Pro account)** 🤨 
-**Ctrl + C → Ctrl + V** the JS code in browser console. 
-Now sit back and feel like a evil genius 😈
+Go to https://www.jiosaavn.com/my-music/songs  **(P.S. need a Pro account)** 🤨.
+ **Ctrl + C → Ctrl + V** the JS code in browser console. 
+ Now sit back and feel like a evil genius 😈
